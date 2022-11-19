@@ -9,4 +9,4 @@ Julius is a tireless seeker of knowledge who concidentally happens to be an avid
 🧰 Toolbox
 <br />
 <br />
-<img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' alt='HTML5 Logo' width='50' height='50'/> <img src='https://cdn.worldvectorlogo.com/logos/css-3.svg' alt='CSS3 Logo' width='50' height='50'/> <img src='https://cdn.worldvectorlogo.com/logos/javascript-1.svg' alt='JavaScript Logo' width='50' height='50'/> 
+<img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' alt='HTML5 Logo' width='50' height='50'/> <img src='https://cdn.worldvectorlogo.com/logos/css-3.svg' alt='CSS3 Logo' width='50' height='50'/> <img src='https://cdn.worldvectorlogo.com/logos/javascript-1.svg' alt='JavaScript Logo' width='50' height='50'/> <img src='https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg' alt='Tailwind CSS Logo' width='50' height='50'/> <img src='https://cdn.worldvectorlogo.com/logos/git-icon.svg' alt='Git Logo' width='50' height='50'/> <img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' alt='React Logo' width='50' height='50'/> 
