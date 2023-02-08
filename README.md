@@ -17,3 +17,7 @@ Julius is a tireless seeker of knowledge who concidentally happens to be an avid
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julius-tamale&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Julius' GitHub stats](https://github-readme-stats.vercel.app/api?username=julius-tamale&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hnce5r35aspmo5nojsjh4obk54)
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hnce5r35aspmo5nojsjh4obk54)](https://open.spotify.com/user/31hnce5r35aspmo5nojsjh4obk54)
